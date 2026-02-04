@@ -6,6 +6,11 @@ The project focuses on **analyzing and modeling helicopter engine data to enable
 
 An interactive interface was also developed using Streamlit to explore results and predictions from the implemented models.
 
+
+# Analysis Document
+We prepared a comprehensive and detailed document covering all the insights obtained during the project development. You can access it through this [link]([url](https://docs.google.com/document/d/1lWWastAq3GmHh3lXTNkzG5W88GMuEVDx3PkHmyc5-XE/edit?usp=sharing
+)).
+
 # Project Structure
 
 This project consists of a main notebook (*Entrega_final.ipynb*), which details all the decisions made throughout the analysis and modeling process, as well as the conclusions obtained after evaluating the different approaches and techniques applied.
@@ -43,3 +48,4 @@ It is recommended to create a virtual environment before running the project to 
 
 6. Run Streamlit
 > streamlit run app_streamlit.py --server.fileWatcherType none
+

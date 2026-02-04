@@ -8,8 +8,7 @@ An interactive interface was also developed using Streamlit to explore results a
 
 
 # Analysis Document
-We prepared a comprehensive and detailed document covering all the insights obtained during the project development. You can access it through this [link]([url](https://docs.google.com/document/d/1lWWastAq3GmHh3lXTNkzG5W88GMuEVDx3PkHmyc5-XE/edit?usp=sharing
-)).
+We prepared a comprehensive and detailed document covering all the insights obtained during the project development. You can access it through this [link]([url](https://docs.google.com/document/d/1lWWastAq3GmHh3lXTNkzG5W88GMuEVDx3PkHmyc5-XE/edit?usp=sharing)).
 
 # Project Structure
 

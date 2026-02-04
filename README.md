@@ -29,6 +29,7 @@ It is recommended to create a virtual environment before running the project to 
 
 2. Activate the virtual environment
 > source env_name/bin/activate   # macOS or Linux
+
 > env_name\Scripts\activate      # Windows
 
 
